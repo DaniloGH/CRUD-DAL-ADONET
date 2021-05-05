@@ -1,0 +1,2 @@
+# CRUD-DAL-ADONET
+Esta aplicação foi desenvolvida para obtenção de nota na disciplina de Desenvolvimento e Integração de Sistemas Distribuídos do curso de ADS da Faculdade Senac PE. Trata-se basicamente de um projeto em duas camadas, utilizando o recurso da plataforma .NET, Windows Forms, para representar uma aplicação de Cadastro Internacional de Doenças. Utilizando a tecnologia ADO.NET para conexão com o Banco de Dados, neste caso o PostgreSQL, com as funções básicas: Create, Read, Update e Delete.
